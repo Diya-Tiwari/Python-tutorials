@@ -1,0 +1,9 @@
+a=32
+b="42"
+print(str(a))
+print(int(b))
+print(float(a))
+c="3"
+d="4"
+print(c+d)
+print(int(c)+int(d))
