@@ -1,0 +1,4 @@
+This is a 100 days of code repository . I learn it from code with harry .
+Python is a object oriented programming language.
+Python is userful for various purposes.
+so let's get started.
